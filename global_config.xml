@@ -1,0 +1,25 @@
+﻿<Config>
+  <General>
+    <Language value="English" />
+  </General>
+  <Graphics>
+    <VSync value="false" />
+    <Resolution value="640,400" />
+    <FullscreenMode value="0" />
+    <Quality value="0" />
+  </Graphics>
+  <Sound>
+    <Sound value="0" />
+    <Music value="0" />
+    <Menu value="0" />
+  </Sound>
+  <AmbientOcclusion value="0" />
+  <Antialiasing value="0" />
+  <DepthOfField value="0" />
+  <MotionBlur value="0" />
+  <RenderSize value="0.4" />
+  <InitialConfig value="false" />
+  <LockCursor value="true" />
+  <TargetFramerate value="100" />
+  <BGFramerate value="100" />
+</Config>
