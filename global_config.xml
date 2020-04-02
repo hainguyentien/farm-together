@@ -3,23 +3,23 @@
     <Language value="English" />
   </General>
   <Graphics>
-    <VSync value="false" />
-    <Resolution value="640,400" />
-    <FullscreenMode value="0" />
-    <Quality value="0" />
+    <VSync value="true" />
+    <Resolution value="1920,1080" />
+    <FullscreenMode value="2" />
+    <Quality value="4" />
   </Graphics>
   <Sound>
-    <Sound value="0" />
+    <Sound value="0.45" />
     <Music value="0" />
-    <Menu value="0" />
+    <Menu value="0.5" />
   </Sound>
-  <AmbientOcclusion value="0" />
-  <Antialiasing value="0" />
-  <DepthOfField value="0" />
-  <MotionBlur value="0" />
-  <RenderSize value="0.4" />
+  <AmbientOcclusion value="4" />
+  <Antialiasing value="3" />
+  <DepthOfField value="4" />
+  <MotionBlur value="4" />
+  <RenderSize value="0.8" />
   <InitialConfig value="false" />
   <LockCursor value="true" />
-  <TargetFramerate value="100" />
-  <BGFramerate value="100" />
+  <TargetFramerate value="130" />
+  <BGFramerate value="130" />
 </Config>

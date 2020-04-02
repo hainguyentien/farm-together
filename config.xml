@@ -9,7 +9,7 @@
     <MouseSensitivity value="4" />
     <GamepadSensitivity value="0.5" />
     <VoiceChatVolume value="0" />
-    <VoiceChatSettings value="1" />
+    <VoiceChatSettings value="3" />
     <TextChatSettings value="1" />
     <ShowTutorial value="false" />
     <ShowRecycleConfirm value="true" />
@@ -24,11 +24,11 @@
     <FarmhandsQuestProgress value="true" />
     <ResetCameraTeleport value="false" />
     <AlwaysShowInventory value="false" />
-    <DisableBackgroundAudio value="false" />
+    <DisableBackgroundAudio value="true" />
   </Game>
   <Sound>
-    <Sound value="0" />
+    <Sound value="0.45" />
     <Music value="0" />
-    <Menu value="0" />
+    <Menu value="0.5" />
   </Sound>
 </Config>
