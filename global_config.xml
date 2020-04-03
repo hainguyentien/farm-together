@@ -4,9 +4,9 @@
   </General>
   <Graphics>
     <VSync value="true" />
-    <Resolution value="1920,1080" />
-    <FullscreenMode value="2" />
-    <Quality value="4" />
+    <Resolution value="800,600" />
+    <FullscreenMode value="0" />
+    <Quality value="0" />
   </Graphics>
   <Sound>
     <Sound value="0.45" />
