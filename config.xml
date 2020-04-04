@@ -27,8 +27,8 @@
     <DisableBackgroundAudio value="true" />
   </Game>
   <Sound>
-    <Sound value="0.45" />
+    <Sound value="0" />
     <Music value="0" />
-    <Menu value="0.5" />
+    <Menu value="0" />
   </Sound>
 </Config>
